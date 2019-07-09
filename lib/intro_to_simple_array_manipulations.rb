@@ -41,5 +41,6 @@ def using_uniq(arr)
 end
 
 def using_flatten(arr)
-  
+  new_arr = arr.flatten
+  new_arr
 end
