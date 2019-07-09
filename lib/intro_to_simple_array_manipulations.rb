@@ -30,3 +30,7 @@ def using_concat(arr1, arr2)
   new_arr = arr1.concat(arr2)
   new_arr
 end
+
+def using_insert(arr, ele)
+  
+end
