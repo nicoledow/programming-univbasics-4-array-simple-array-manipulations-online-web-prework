@@ -21,3 +21,7 @@ def using_shift(arr)
   ele = arr.shift
   ele
 end
+
+def shift_with_args(arr)
+  arr.shift(2)
+end
