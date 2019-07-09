@@ -7,3 +7,4 @@ def using_unshift(arr, str)
   updated_array = arr.unshift(str)
   updated_array
 end
+
